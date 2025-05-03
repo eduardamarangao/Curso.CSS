@@ -60,11 +60,11 @@
       "index": "aC",
       "roundness": null,
       "seed": 729700213,
-      "version": 192,
-      "versionNonce": 964650837,
+      "version": 194,
+      "versionNonce": 341417467,
       "isDeleted": false,
-      "boundElements": null,
-      "updated": 1746297334244,
+      "boundElements": [],
+      "updated": 1746297590906,
       "link": null,
       "locked": false,
       "text": "background-color: #000;\ncolor: #fff;",
@@ -76,6 +76,101 @@
       "originalText": "background-color: #000;\ncolor: #fff;",
       "autoResize": true,
       "lineHeight": 1.25
+    },
+    {
+      "id": "6nuc-BK_y8VMuzoOkB1lc",
+      "type": "line",
+      "x": 544.1199645996094,
+      "y": 34,
+      "width": 105,
+      "height": 0,
+      "angle": 0,
+      "strokeColor": "#ffffff",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "aE",
+      "roundness": {
+        "type": 2
+      },
+      "seed": 547069269,
+      "version": 230,
+      "versionNonce": 767698197,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1746297467460,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          105,
+          0
+        ]
+      ],
+      "lastCommittedPoint": null,
+      "startBinding": null,
+      "endBinding": null,
+      "startArrowhead": null,
+      "endArrowhead": null
+    },
+    {
+      "id": "Lo3_9_bUwIT4VcvtFZxU4",
+      "type": "arrow",
+      "x": 582.1199645996094,
+      "y": 38.75604716002112,
+      "width": 462.88849827628314,
+      "height": 66.94711102580037,
+      "angle": 0.0070682280637601735,
+      "strokeColor": "#ffffff",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "aN",
+      "roundness": {
+        "type": 2
+      },
+      "seed": 600835387,
+      "version": 561,
+      "versionNonce": 682164213,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1746297596522,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          43.011763114167906,
+          17.243952839978885
+        ],
+        [
+          462.88849827628314,
+          -49.70315818582149
+        ]
+      ],
+      "lastCommittedPoint": null,
+      "startBinding": null,
+      "endBinding": null,
+      "startArrowhead": null,
+      "endArrowhead": "arrow",
+      "elbowed": false
     }
   ],
   "appState": {
